@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-[![Vidéo présentation](assets/image.jpg)](https://youtu.be/Zz9BCSKimBE)
+## Vidéo de présentation du projet :
+
+https://youtu.be/Zz9BCSKimBE
